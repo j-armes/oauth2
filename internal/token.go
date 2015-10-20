@@ -110,6 +110,7 @@ var brokenAuthHeaderProviders = []string{
 	"https://user.gini.net/",
 	"https://api.netatmo.net/",
 	"https://slack.com/",
+	"https://login.salesforce.com/",
 }
 
 // providerAuthHeaderWorks reports whether the OAuth2 server identified by the tokenURL
